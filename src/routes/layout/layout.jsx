@@ -4,7 +4,7 @@ import { Outlet } from 'react-router-dom'
 import './layout.scss'
 const Layout = () => {
   return (
-          <div className="layout">
+          <div className="layout" >
        <div className="navbar">
          <Navbar />
        </div>
